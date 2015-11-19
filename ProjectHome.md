@@ -1,0 +1,1 @@
+Bomber-2-man is a simple 2D bomberman-like game with online multiplayer mode for (at least) 2 players. It is created in C# as a project for studies.
